@@ -36,10 +36,10 @@ Icon?
 .tags*
 
 build/
-.android/
-.ios/
-.flutter-plugins
-.flutter-plugins-dependencies
+#.android/
+#.ios/
+#.flutter-plugins
+#.flutter-plugins-dependencies
 
 # Symbolication related
 app.*.symbols
